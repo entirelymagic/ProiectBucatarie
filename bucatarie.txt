@@ -1,0 +1,1 @@
+{'nume': 'Bucatarie 1', 'inventar': [['faina', 5000, 'gr'], ['sare', 1000000, 'gr'], ['apa', 10000, 'ml']]}
